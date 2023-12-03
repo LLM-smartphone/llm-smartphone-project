@@ -37,4 +37,23 @@ https://github.com/LLM-smartphone/llm-smartphone-project/assets/22321356/e0b6ca9
 6. Start ADB: `adb -e shell`
 7. Execute the `agent.py` file.
 
+## TODO
+- [ ] Instructions on how to handle dynamic views.
+- [ ] Prompt engineering.
+- [ ] Reliably stop tasks.
+
+## Notes
+Please cite our repo if you use it in your work.
+```
+@software{Wang_GPT-4V_Powered_Smartphone_2023,
+author = {Wang, Luyuan and Wang, Qinmin and Mao, Guodong and Chen, Shoufa},
+month = dec,
+title = {{GPT-4V Powered Smartphone Automation}},
+url = {https://github.com/LLM-smartphone/llm-smartphone-project},
+version = {1.0.0},
+year = {2023}
+}
+```
+Our technical report will be released soon. Please stay tuned.
+
 
